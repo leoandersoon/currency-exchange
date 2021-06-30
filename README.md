@@ -37,7 +37,7 @@ Building a Currency Exchange program by using Python.
 
 ### Built With
 
-I built this program by using Python and forex-python library. If you don't have them, you can install following links;
+This program built by using Python and forex-python library. If you don't have them, you can install on the following links;
 * [Python 3](https://www.python.org/ftp/python/3.9.6/Python-3.9.6.tar.xz)
 * [forex-python library](https://forex-python.readthedocs.io/en/latest/installation.html)
 
@@ -47,6 +47,10 @@ I built this program by using Python and forex-python library. If you don't have
 ## Getting Started
 
 That's a project where you can see current currencies' worth. (such as forex or Bitcoin)
+Firstly you choosing a process. And then you follwoing instructions.
+
+https://user-images.githubusercontent.com/79702313/123949395-306cbe00-d9ab-11eb-9b04-fb6bc1b93bc5.mp4
+
 
 ### Prerequisites
 
@@ -81,7 +85,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@abdulooper](https://twitter.com/abdulooper) - leoanderson633@gmail.com
+Abdullah Aslan - [@abdulooper](https://twitter.com/abdulooper) - leoanderson633@gmail.com
 
 Project Link: [https://github.com/abdulooper/currency-exchange](https://github.com/abdulooper/currency-exchange)
 
