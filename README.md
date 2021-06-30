@@ -49,7 +49,7 @@ This program built by using Python and forex-python library. If you don't have t
 That's a project where you can see current currencies' worth. (such as forex or Bitcoin)
 Firstly you choosing a process. And then you follwoing instructions.
 
-https://user-images.githubusercontent.com/79702313/123949395-306cbe00-d9ab-11eb-9b04-fb6bc1b93bc5.mp4
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/5E6aAsn3mUEQnpYUHM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/5E6aAsn3mUEQnpYUHM">via GIPHY</a></p>
 
 
 ### Prerequisites
