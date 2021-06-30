@@ -13,9 +13,7 @@ Building a Currency Exchange program by using Python.
 <br />
 <p align="left">
 
-  <h3 align="center">Currency Exchange</h3>
-
-  <p align="center">
+  <p align="left">
     <br />
     <a href="https://forex-python.readthedocs.io/en/latest/installation.html"><strong>Explore the docs »</strong></a>
   </p>
