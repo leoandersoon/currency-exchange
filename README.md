@@ -3,11 +3,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-
 # Currency Exchange
 Building a Currency Exchange program by using Python.
-
-
 
 <!-- PROJECT LOGO -->
 <br />
