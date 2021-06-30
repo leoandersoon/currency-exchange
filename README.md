@@ -4,14 +4,14 @@
 [![Issues][issues-shield]][issues-url]
 
 
-# currency-exchange
-Building a Currency Exchange program by using Python
+# Currency Exchange
+Building a Currency Exchange program by using Python.
 
 
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p align="left">
 
   <h3 align="center">Currency Exchange</h3>
 
