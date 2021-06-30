@@ -1,6 +1,6 @@
-[!Fork this repo](https://github.com/abdulooper/currency-exchange/fork) <br>
-[!Follow this repo](https://github.com/abdulooper/currency-exchange/subscription) <br>
-[!Create issue](https://github.com/abdulooper/currency-exchange/issues/new) <br>
+[!fork this repo](https://github.com/abdulooper/currency-exchange/fork) <br>
+[!follow this repo](https://github.com/abdulooper/currency-exchange/subscription) <br>
+[!create issue](https://github.com/abdulooper/currency-exchange/issues/new) <br>
 
 # Currency Exchange
 Building a Currency Exchange program by using Python.
