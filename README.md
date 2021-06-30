@@ -1,7 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[Fork this repo](https://github.com/abdulooper/currency-exchange/fork)
+[Follow this repo](https://github.com/abdulooper/currency-exchange/subscription)
+[Create issue](https://github.com/abdulooper/currency-exchange/issues/new)
 
 # Currency Exchange
 Building a Currency Exchange program by using Python.
@@ -20,7 +19,7 @@ Building a Currency Exchange program by using Python.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Ingredients</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -36,11 +35,7 @@ Building a Currency Exchange program by using Python.
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
