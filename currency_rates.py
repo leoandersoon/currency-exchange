@@ -1,17 +1,14 @@
-from forex_python.converter import CurrencyRates # döviz kurları ve sembol değerleri için
-from forex_python.converter import CurrencyCodes # birim kodları almak için
-from forex_python.bitcoin import BtcConverter # bitcoin kurları için
+from forex_python.converter import CurrencyRates # to reach forex currencies and their symbols
+from forex_python.converter import CurrencyCodes # to reach codes of currencies
+from forex_python.bitcoin import BtcConverter # to reach Bitcoin currencies
 import time
 
 c = CurrencyRates() # döviz kurları 
 # eğer decimal kullanımına zorlarsan ondalıklı sayı sisteminde veri aktarır
 # print(c.convert('USD', 'TRY', 1))
 
-
-
 b = BtcConverter() # decimal kur verileri almak içn paranteze force_decimal=True yaz
 # print(b.convert_to_btc(400, 'USD'))
-
 
 
 c_codes = CurrencyCodes()
