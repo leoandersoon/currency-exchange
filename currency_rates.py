@@ -4,9 +4,8 @@ from forex_python.bitcoin import BtcConverter # to reach Bitcoin rates
 import time
 
 c = CurrencyRates() # currency rates 
-# eğer decimal kullanımına zorlarsan ondalıklı sayı sisteminde veri aktarır
 
-b = BtcConverter() # write down force_decimal=True in the bracket to bring datas of decimal rate
+b = BtcConverter() # write down force_decimal=True in the bracket to bring data of decimal rate
 
 c_codes = CurrencyCodes()
 print(c.get_symbol('USD')) # to get symbols of currencies
@@ -22,7 +21,7 @@ def choose_process():
 choose_process()
 process_type = int(input("Choose the section what you want: \n"))
 
-# now desinging logical functions that be conditioned to if statement
+# now designing logical functions that be conditioned to if statement
 if process_type == 1:
     print("")
     print("Type Currencies that you want to learn their rates:")
@@ -31,9 +30,9 @@ if process_type == 1:
     cur_rates_2 = str(input("Second one; "))
     print("")
     cur_rates_price = input("Type the amount what you want to convert: ")
-    cur_rates_price = float(cur_rates_price) # tam sayı veya virgüllü sayının da girdi olarak alınabilmesi için yaptım bunu
+    cur_rates_price = float(cur_rates_price) # i wrote to get a float number from the user. 'cause if we get floats, we'll be able to take inputs as both floats and integers
 
-    print() # boşluk ekliyorum ki çıktı alırken konsol teimz ve anlaşılır görünsün
+    print() # i'm adding spaces to have a clean and understandable console while taking to the output
 
     print(c.convert(cur_rates_1, cur_rates_2, cur_rates_price))
 
