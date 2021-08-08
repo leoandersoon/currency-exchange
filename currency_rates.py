@@ -1,18 +1,15 @@
-from forex_python.converter import CurrencyRates # to reach forex currencies and their symbols
-from forex_python.converter import CurrencyCodes # to reach codes of currencies
-from forex_python.bitcoin import BtcConverter # to reach Bitcoin currencies
+from forex_python.converter import CurrencyRates # to reach currency rates and their symbols
+from forex_python.converter import CurrencyCodes # to reach codes of currencies rates
+from forex_python.bitcoin import BtcConverter # to reach Bitcoin rates
 import time
 
-c = CurrencyRates() # döviz kurları 
+c = CurrencyRates() # currency rates 
 # eğer decimal kullanımına zorlarsan ondalıklı sayı sisteminde veri aktarır
-# print(c.convert('USD', 'TRY', 1))
 
-b = BtcConverter() # decimal kur verileri almak içn paranteze force_decimal=True yaz
-# print(b.convert_to_btc(400, 'USD'))
-
+b = BtcConverter() # write down force_decimal=True in the bracket to bring datas of decimal rate
 
 c_codes = CurrencyCodes()
-# print(c.get_symbol('USD'))
+print(c.get_symbol('USD')) # to get symbols of currencies
 
 
 def choose_process():
@@ -25,7 +22,7 @@ def choose_process():
 choose_process()
 process_type = int(input("Choose the section what you want: \n"))
 
-# if yapısına bağlı olan mantıksal fonksiyonların tasarlanılması
+# now desinging logical functions that be conditioned to if statement
 if process_type == 1:
     print("")
     print("Type Currencies that you want to learn their rates:")
